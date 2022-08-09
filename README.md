@@ -21,7 +21,7 @@ $ pip install rich
 $ pip install bs4
 $ pkg install git
 $ rm -rf lite
-$ git clone https://github.com/XNX-XNX/lite.git
+$ git clone https://github.com/AKASH-BD/lite.git
 $ cd lite
 $ python lite.py
 
